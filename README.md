@@ -17,8 +17,7 @@
 
 ☑ Overall customer satisfaction is below industry average, emphasizing the need for improved customer experience initiatives.
 
-![4th](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/073ca04c-d047-4017-a715-0dbab3d6ad36)
-![3rd](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/af488bf9-c9b0-49fd-a30c-a2610d0b0ccb)
-![2nd](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/45924584-cb2e-4bb0-bb76-7c286c5df231)
 ![ist](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/3faeed0f-4047-49bf-998b-35ca91c42dcd)
-
+![2nd](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/45924584-cb2e-4bb0-bb76-7c286c5df231)
+![3rd](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/af488bf9-c9b0-49fd-a30c-a2610d0b0ccb)
+![4th](https://github.com/jyotipaliwal109/CRM-Bank-Analysis/assets/85400541/073ca04c-d047-4017-a715-0dbab3d6ad36)
